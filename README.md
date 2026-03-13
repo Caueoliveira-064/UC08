@@ -1,1 +1,2 @@
-# UC08
+# UC08 SENAC
+Mentor: Prof. Hudson
